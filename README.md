@@ -19,10 +19,10 @@ This repo contains the codes written in the course CS669 Pattern Recognition in 
 
 - [Colab](https://github.com/its-rajesh/Pattern-Recognition/blob/main/PRA2Q1.ipynb) Notebook from Scratch
 - [Datasets]() used
-- [Results](https://github.com/its-rajesh/Pattern-Recognition/blob/main/PRA2_s21005.pdf) | [Question Paper](https://github.com/its-rajesh/Pattern-Recognition/blob/main/cs669_assign1.pdf)
+- [Results](https://github.com/its-rajesh/Pattern-Recognition/blob/main/PRA2_s21005.pdf) | [Question Paper](https://github.com/its-rajesh/Pattern-Recognition/blob/main/cs669_asgn2.pdf)
 
 ### Universal Background Model (UBM - GMM)
 
 - [Colab](https://github.com/its-rajesh/Pattern-Recognition/blob/main/PRA2Q2.ipynb) Notebook from Scratch
 - [Datasets]() used
-- [Results](https://github.com/its-rajesh/Pattern-Recognition/blob/main/PRA2_s21005.pdf) | [Question Paper](https://github.com/its-rajesh/Pattern-Recognition/blob/main/cs669_assign1.pdf)
+- [Results](https://github.com/its-rajesh/Pattern-Recognition/blob/main/PRA2_s21005.pdf) | [Question Paper](https://github.com/its-rajesh/Pattern-Recognition/blob/main/cs669_asgn2.pdf)
