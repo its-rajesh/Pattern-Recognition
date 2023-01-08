@@ -14,3 +14,16 @@ This repo contains the codes written in the course CS669 Pattern Recognition in 
 - [Colab](https://github.com/its-rajesh/Pattern-Recognition/blob/main/PRA1Q2.ipynb) Notebook from Scratch
 - [Datasets](https://github.com/its-rajesh/Pattern-Recognition/tree/main/assign1_data/q2) used
 - [Results](https://github.com/its-rajesh/Pattern-Recognition/blob/main/PRA1_s21005.pdf) | [Question Paper](https://github.com/its-rajesh/Pattern-Recognition/blob/main/cs669_assign1.pdf)
+
+### Gaussian Mixture Models for Language Identification
+
+-
+-
+-
+
+### Universal Background Model (UBM - GMM)
+
+
+-
+-
+-
